@@ -12,4 +12,4 @@ Membuat 3 atribut multi-level inheritance. Ketiga atribut tersebut berisi:
 Kemudian terdapat satu file main dan semua data di input secara hardcode.
 
 ## DESAIN PROGRAM
-![image.png]( {https://github.com/zahraftrm/LATIHAN2DPBO2023-/blob/main/desain%20program.png} )
+![image.png](https://github.com/zahraftrm/LATIHAN2DPBO2023-/blob/main/desain%20program.png)
